@@ -11,7 +11,7 @@ def get_args():
 
 
 def generate_infos(ds):
-	assert ds in ['office_home', 'office31', 'visda17']
+	assert ds in ['office_home', 'office31', 'visda17', 'DomainNet']
 	folder = f'./data/{ds}/'
 	out_dir = f'./data/{ds}_infos'
 	os.makedirs(out_dir, exist_ok=True)
