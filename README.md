@@ -25,7 +25,7 @@ python generate_infos.py --ds visda17
 # For Office on domain A
 CUDA_VISIBLE_DEVICES=0 python train_src_v1.py configs/office31/src_a/train_src_a.py
 
-# For Office on domain A
+# For Office-Home on domain A
 CUDA_VISIBLE_DEVICES=1 python train_src_v1.py configs/office_home/src_A/train_src_A.py
 
 # For VisDA
