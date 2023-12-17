@@ -4,7 +4,7 @@
 
 **Step 1. Data Preparation**
 
-Please download the dataset from the official website (https://faculty.cc.gatech.edu/~judy/domainadapt/#datasets_code)(http://ai.bu.edu/visda-2017/) and put them into ```./data``` .
+Please download the dataset (https://github.com/jindongwang/transferlearning/blob/master/data/dataset.md) and put them into ```./data``` .
 
 **Step 2. Generate information list for dataset**
 
